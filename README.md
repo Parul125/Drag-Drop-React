@@ -13,6 +13,12 @@ This time, we are going to implement the functionality to do a Drag & Drop with 
 1. Card dragging.
 2. Dropping cards into a container.
 3. Sorting cards.
+4. Connect the cards using arrows.
+5. Resizeable Cards.
+6. Scrollable Canvas.
+7. Drag and drop the card anywhere on canvas.
+8. Open a detailed text of the card in a popup by clicking on show more.
+
 
 &nbsp;
 
